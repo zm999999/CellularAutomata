@@ -1,2 +1,2 @@
 # CellularAutomata
-java简版元胞自动机
+Java简版元胞自动机
